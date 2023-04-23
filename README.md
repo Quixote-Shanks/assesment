@@ -21,3 +21,4 @@
 ```sh
     npm run clean
 ```
+To learn more about GitHub, visit the [GitHub homepage](https://github.com).
